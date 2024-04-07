@@ -4,5 +4,5 @@ Standardized units, boundary conditions, and parameter settings are deposited wi
 With any trouble when dealing with this model, do not hesitate to contact me at xubinwang@pku.edu.cn
 
 
---by Xubin Wang, School of Earth and Space Sciences, Peking University
+--by Xubin Wang, School of Earth and Space Sciences, Peking University  
 --Correspondence: my supervisior Dr. L. Dong, E-mail: lin.dong \at pku.edu.cn
