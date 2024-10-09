@@ -6,3 +6,5 @@ With any trouble when dealing with this model, do not hesitate to contact me at 
 
 --by Xubin Wang, School of Earth and Space Sciences, Peking University  
 --Correspondence: my supervisior Dr. L. Dong, E-mail: lin.dong \at pku.edu.cn
+
+The related manuscript has been published in Gondwana Research (https://doi.org/10.1016/j.gr.2024.09.013)
